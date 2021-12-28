@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/voiceRes/BackButtonSound.wav</file>
+        <file>img/voiceRes/ConFlipSound.wav</file>
+        <file>img/voiceRes/LevelWinSound.wav</file>
+        <file>img/voiceRes/TapButtonSound.wav</file>
+        <file>img/voiceRes/小旭音乐 - 欢乐斗地主背景音乐.mp3</file>
+        <file>img/voiceRes/BackButtonSound1.wav</file>
+        <file>img/voiceRes/buyVoice.wav</file>
+    </qresource>
+</RCC>

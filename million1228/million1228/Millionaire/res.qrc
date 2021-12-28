@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/icons/仓库.png</file>
+        <file>img/icons/出售.png</file>
+        <file>img/icons/打工.png</file>
+        <file>img/icons/批发市场.png</file>
+        <file>img/icons/提升.png</file>
+        <file>img/icons/休息.png</file>
+        <file>img/icons/银行.png</file>
+    </qresource>
+    <qresource prefix="/wifu">
+        <file>img/wifu/angry.png</file>
+        <file>img/wifu/anxious.png</file>
+        <file>img/wifu/happy.png</file>
+        <file>img/wifu/normal.png</file>
+        <file>img/wifu/sad.png</file>
+        <file>img/wifu/very angry.png</file>
+    </qresource>
+</RCC>
